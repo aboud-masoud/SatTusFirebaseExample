@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "17200452397",
+    "project_id": "sattusflutterexample",
+    "storage_bucket": "sattusflutterexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17200452397:android:940597019793e80471b9a4",
+        "android_client_info": {
+          "package_name": "com.example.sattus_firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17200452397-rd9l2k9e3a0ht3cb7i58brsfu9umrr98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgjPjuKvfLiQvIeSFT2_VDOaGCaOISMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17200452397-rd9l2k9e3a0ht3cb7i58brsfu9umrr98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17200452397-lukg0vba6clr4udpddnlfptf2l9t7urt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sattusFirebaseTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
